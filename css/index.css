@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    background-image: url("../img/chemin.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.photo_colisée{
+    border-radius: 5%;
+    width: 15%;
+}
+.photo_Louvre{
+    border-radius: 5%;
+    width: 15%;
+}
+.photo_Cité_interdite_de_Pékin{
+    border-radius: 5%;
+    width: 15%;
+}
+
+header{
+    background-color: rgb(255, 0, 0);
+    padding: 1.60%;
+}
