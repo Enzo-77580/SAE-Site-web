@@ -1,5 +1,4 @@
 body{
-    background-color: aqua;
     background-image: url("../img/chemin.jpg");
     background-size: cover;
     background-position: center;
@@ -20,6 +19,8 @@ body{
 }
 
 header{
-    background-color: rgb(255, 0, 0);
-    padding: 1.60%;
+    font-size: 150%;
+    padding: 1%;
+  background-color: black;
+
 }
